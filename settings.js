@@ -1,5 +1,5 @@
   /*
-  Created By Riy
+  Created By Shril
   Base Ori : DikaArdnt
   Kalau Mau Nambahin Fitur Di › index.js
   Edit Tampilan Menu Dll. Di › Language › help.js
